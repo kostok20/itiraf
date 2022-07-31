@@ -1,5 +1,5 @@
 {
-      "name": "Herlockİtiraf Botu",
+      "name": "İtirafçılar Botu",
       "description": "Telethon tabanlı itiraf Botu",
       "keywords": [
          "telegram",
@@ -8,55 +8,55 @@
          "SakirBey1",
          "Herlock"
       ],   
-   "repository": "https://github.com/SakirBey1/tg",
+   "repository": "https://github.com/kostok20/itiraf",
    "env": {
       "TOKEN": {
-         "description": "Botunuzun tokenini bura yazın",
+         "description": "5413130181:AAFgk6rqLS6mmUXgZAQVdtld_Op-kcLm4h8",
          "value": ""
       },
       "APP_ID": {
-         "description": "my.telegram.org adresindən APP ID alın.",
+         "description": "15095702",
          "value": ""
       },
       "API_HASH": {
-         "description": "my.telegram.org adresindən API HASH alın",
+         "description": "a30d70d50032706c7c95a070eaf7c83b",
          "value": ""
       },    
       "ADMIN_QRUP": {
          "description": "İtirafları onaylamak için bir grup oluşturun. Oluşturduğunuz botu o gruba atın, yöneticilik verin ve buraya grup İD yazın.",
-         "value": "-1001601038464"
+         "value": "-1001772500366"
       },      
       "ETIRAF_QRUP": {
          "description": "Onayınızı paylaşmak istediğiniz kanal / grup kimliğini girin",
-         "value": "-1001627150191"
+         "value": "-1001539121503"
       },
       "LOG_QRUP": {
          "description": "Botunuzun bu gruba giriş bilgilerini ve özel gizli bilgileri göndereceği bu gruptaki tek kişi olun",
-         "value": "-1001604147250"
+         "value": "-1001705260701"
       },
       "kanal": {
          "description": "İtirafın paylaşılacağı grub/kanal linkini bura yazın @ işarəsi olmadan",
-         "value": "suskunlarkanali"
+         "value": "itirafci"
       },
       "BOT_AD": {
          "description": "Botun kullanıcı adını buraya yazın @ işareti ile",
-         "value": "@herlock_itiraf_bot"
+         "value": "@itirafci_bot"
       },
       "sahib": {
          "description": "Kullanıcı adınızı @ işareti olmadan buraya yazın",
-         "value": "SakirBey1"
+         "value": "slmBATU"
       },      
       "support": {
          "description": "Burada bir destek grubunuz / kanalınız varsa @ işareti olmadan yazın veya olduğu gibi bırakın",
-         "value": "HerlockSupport1"
+         "value": ""
       },
       "startmesaj": {
          "description": "Bota start komutu verilince yazılacak mesaj",
-         "value": "**Merhaba, [dostum](tg://settings)** __Bana hiç söylemediğiniz itirafları söyleyebilirsiniz__ 🤭 Developer: @SakirBey1"
+         "value": "**Merhaba, [dostum](tg://settings)** __Bana hiç söylemediğiniz itirafları söyleyebilirsiniz__ 🤭 ㅤㅤㅤ🅱🅰🆃🆄: @slmBATU"
       },
       "qrupstart": {
          "description": "Bot bir gruba katılırsa, başlatılırsa grupta yazılan mesaj",
-         "value": "✅ **Ben Aktifim !** 💌 **İtirafı yazmak için şahsen yazın** Developer: @SakirBey1"
+         "value": "✅ **Ben Aktifim !** 💌 **İtirafı yazmak için şahsen yazın** ㅤㅤㅤ🅱🅰🆃🆄: @slmBATU"
       },
       "etirafmsg": {
          "description": "Kabul edildiğinde bot tarafından sorulan soru",
@@ -68,7 +68,7 @@
       },
       "gonderildi": {
          "description": "Etiraf edəndən sonra yazılan mesaj (öz kanalınızı yazın)",
-         "value": "✅ **İtirafınız, yöneticiler tarafından onaylandıktan sonra @herlockitiraf kanalında yayınlanacaktır**"
+         "value": "✅ **İtirafınız, yöneticiler tarafından onaylandıktan sonra @itirafci kanalında yayınlanacaktır**"
       }
       
    }
