@@ -40,9 +40,9 @@ async def start(event):
                       [
                        Button.inline("💌 İtiraf Yaz", data="etiraf")
                       ],
-                      [Button.url('📜 İtiraf Kanalı', f'https://t.me/suskunlarkanali')],
-                      [Button.url('📣 Destek', f'https://t.me/{support}'),
-                       Button.url('👨🏻‍💻 Sahibim', f'https://t.me/{sahib}')]
+                      [Button.url('📜 İtiraf Kanalı', f'https://t.me/itirafci')],
+                      [Button.url('📣 Destek', f'https://t.me/slmBATU'),
+                       Button.url('👨🏻‍💻 Sahibim', f'https://t.me/slmBATU')]
                     ),
                     link_preview=False)
 
@@ -59,9 +59,9 @@ async def handler(event):
                       [
                        Button.inline("💌 İtiraf Yaz", data="etiraf")
                       ],
-                      [Button.url('📜 İtiraf Kanalı', f'https://t.me/{kanal}')],
-                      [Button.url('📣 Destek', f'https://t.me/{support}'),
-                       Button.url('👨🏻‍💻 Sahibim', f'https://t.me/{sahib}')]
+                      [Button.url('📜 İtiraf Kanalı', f'https://t.me/itirafci')],
+                      [Button.url('📣 Destek', f'https://t.me/slmBATU'),
+                       Button.url('👨🏻‍💻 Sahibim', f'https://t.me/slmBATU')]
                     ),
                     link_preview=False)
 
