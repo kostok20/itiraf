@@ -40,7 +40,7 @@ async def start(event):
                       [
                        Button.inline("💌 İtiraf Yaz", data="etiraf")
                       ],
-                      [Button.url('📜 İtiraf Kanalı', f'https://t.me/itirafci')],
+                      [Button.url('📜 İtiraf Grubu', f'https://t.me/itirafcilar')],
                       [Button.url('📣 Destek', f'https://t.me/slmBATU'),
                        Button.url('👨🏻‍💻 Sahibim', f'https://t.me/slmBATU')]
                     ),
@@ -59,7 +59,7 @@ async def handler(event):
                       [
                        Button.inline("💌 İtiraf Yaz", data="etiraf")
                       ],
-                      [Button.url('📜 İtiraf Kanalı', f'https://t.me/itirafci')],
+                      [Button.url('📜 İtiraf Grubu', f'https://t.me/itirafcilar')],
                       [Button.url('📣 Destek', f'https://t.me/slmBATU'),
                        Button.url('👨🏻‍💻 Sahibim', f'https://t.me/slmBATU')]
                     ),
