@@ -48,7 +48,7 @@
       },      
       "support": {
          "description": "Burada bir destek grubunuz / kanalınız varsa @ işareti olmadan yazın veya olduğu gibi bırakın",
-         "value": ""
+         "value": "slmBATU"
       },
       "startmesaj": {
          "description": "Bota start komutu verilince yazılacak mesaj",
