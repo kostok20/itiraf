@@ -34,9 +34,9 @@
          "description": "Botunuzun bu gruba giriş bilgilerini ve özel gizli bilgileri göndereceği bu gruptaki tek kişi olun",
          "value": "-1001520692379"
       },
-      "kanal": {
+      "Grup": {
          "description": "İtirafın paylaşılacağı grub/kanal linkini bura yazın @ işarəsi olmadan",
-         "value": "itirafci"
+         "value": "itirafcilar"
       },
       "BOT_AD": {
          "description": "Botun kullanıcı adını buraya yazın @ işareti ile",
@@ -68,7 +68,7 @@
       },
       "gonderildi": {
          "description": "Etiraf edəndən sonra yazılan mesaj (öz kanalınızı yazın)",
-         "value": "✅ **İtirafınız, yöneticiler tarafından onaylandıktan sonra @itirafci kanalında yayınlanacaktır**"
+         "value": "✅ **İtirafınız, yöneticiler tarafından onaylandıktan sonra @itirafcilar grubunda yayınlanacaktır**"
       }
       
    }
